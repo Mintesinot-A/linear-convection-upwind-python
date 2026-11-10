@@ -97,7 +97,7 @@ Suggested experiments: change `nx` with `dt` fixed and watch the CFL number and 
 
 ## Credits
 
-Parts of this notebook are adapted from Step 1 of *CFD Python: the 12 steps to Navier-Stokes equations* by Lorena A. Barba and Gilbert F. Forsyth (<https://github.com/barbagroup/CFDPython>), whose content is licensed under CC BY 4.0. The adapted material includes the problem set-up (grid and parameter variables, the hat-function initial condition) and the wording of the discretization step. The explanations, derivations, exact solution, and stability discussion have been added or expanded by the author. [Author: confirm which sections you wrote yourself.]
+Parts of this notebook are adapted from Step 1 of *CFD Python: the 12 steps to Navier-Stokes equations* by Lorena A. Barba and Gilbert F. Forsyth (<https://github.com/barbagroup/CFDPython>), whose content is licensed under CC BY 4.0. The adapted material includes the problem set-up (grid and parameter variables, the hat-function initial condition) and the wording of the discretization step. The explanations, derivations, exact solution, and stability discussion have been added or expanded by the author. 
 
 Please cite the original work as: Barba, L. A., and Forsyth, G. F. (2018). CFD Python: the 12 steps to Navier-Stokes equations. *Journal of Open Source Education*, 1(9), 21. <https://doi.org/10.21105/jose.00021>
 
