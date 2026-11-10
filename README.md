@@ -78,8 +78,8 @@ The notebook writes `initial_condition.png` and `ftbs_vs_exact.png` into `figure
 ## How to run
 
 ```bash
-git clone https://github.com/Mintesinot-A/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/Mintesinot-A/linear-convection-upwind-python.git
+cd linear-convection-upwind-python
 pip install -r requirements.txt
 jupyter lab
 ```
