@@ -113,4 +113,4 @@ Original code and text by the author are released under the MIT License (see `LI
 
 ## Author
 
-Mintesinot Alemayehu, Mechanical Engineering Department, mintesinot.alemayehu@bdu.edu.et
+Mintesinot Alemayehu, Mechanical Engineering Department, Bahir Dar University, mintesinot.alemayehu@bdu.edu.et
